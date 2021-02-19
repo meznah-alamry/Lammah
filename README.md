@@ -48,7 +48,7 @@ Using Agile methodology
 * Cloudinary API
 
 ## Live link
-[Visit Lammah]()
+[Visit Lammah](https://proj4-lammah.herokuapp.com/)
 cd 
 ## Work distribution
 ![Work distribution](/tasks.png)
